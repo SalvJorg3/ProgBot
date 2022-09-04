@@ -1,10 +1,4 @@
-function addTexto() {
 
-    const formControl = document.querySelector(".form-control").value;
-    
-
-    
-}
 
 
 
